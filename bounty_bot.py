@@ -1,3 +1,8 @@
+# git add .
+# git commit -m "Your commit message here"
+# git push origin main
+
+
 import discord
 from discord.ext import commands
 from datetime import datetime
